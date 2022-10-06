@@ -1,2 +1,0 @@
-# algafood
-Curso de Kotlin
